@@ -1,2 +1,2 @@
 # Handling-Imbalance-Data
-Python Implementation of Random Sampling and Over-sampling using SMOTE
+Python Implementation of Random Under/Over Sampling and Over-sampling using SMOTE
